@@ -26,6 +26,7 @@ Simply click on the "Toggle Theme" checkbox to switch between light and dark the
 
 - React
 - Context API
+- Tailwind CSS
 
 ## Learnings
 
